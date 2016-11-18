@@ -1,0 +1,11 @@
+---
+version: '2'
+services:
+  certbot:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    container_name: certbot
+    ports:
+      - "80:80"
+      - "443:443"
