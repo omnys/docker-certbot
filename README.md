@@ -2,7 +2,7 @@
 
 Cerbot client
 
-![certbot](https://certbot.eff.org)
+[certbot](https://certbot.eff.org)
 
 ## Generate a new certificate
 
